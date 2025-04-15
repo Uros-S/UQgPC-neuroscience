@@ -16,8 +16,8 @@ https://www.tu-chemnitz.de/etit/control/research/PoCET/index.php.en
 
 # Usage
 
-- Download the data from the following Drive folder and put the folders in the same working directory of 'main.m' and the folder 'util':
-  https://drive.google.com/drive/folders/1yHjM4mj5n9EWhptg9bZ2AMoApsQvTEPz?usp=drive_link
+- Download the data from the following Zenodo repository and put the folders in the same working directory of 'main.m' and the folder 'util':
+  https://zenodo.org/records/15226040
 
 - In 'main.m' select the model (1 --> Hindmarsh-Rose, 2 --> Jansen-Rit, 3 --> Epileptor) and whether to recompute everything from scratch (recompute = 1) or to use the pre-computed data generated for the paper's figures 
   (recompute = 0). Note that the numerical values will slightly differ from those of the paper since sampling is involved in some parts of the algorithm.
