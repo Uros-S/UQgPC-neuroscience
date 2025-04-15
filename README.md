@@ -9,6 +9,11 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 The full text of the GNU General Public License can be found in the file "LICENSE.txt".
 
+# Toolbox required
+
+The results of this paper rely on the functions from the toolbox PoCET. Details on installation and usage can be found here:
+https://www.tu-chemnitz.de/etit/control/research/PoCET/index.php.en
+
 # Usage
 
 - Download the data from the following Drive folder and put the folders in the same working directory of 'main.m' and the folder 'util':
