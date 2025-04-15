@@ -19,8 +19,6 @@ mc_samples = 5000;
 switch model 
     %% Hindmarsh-Rose model
     case 1
-        addpath([pwd,'/Data HR/'])
-
         % Initial conditions setting
         x_0 = [0,0,0];
         
@@ -54,8 +52,6 @@ switch model
 
     %% Jansen-Rit model
     case 2
-        addpath([pwd,'/Data JR/'])
-
         % Initial conditions setting
         x_0 = [0,0,0,0,0,0];    
         
@@ -90,8 +86,6 @@ switch model
 
     %% Epileptor model
     case 3
-        addpath([pwd,'/Data Epileptor/'])
-
         % Initial conditions setting
         x_0 = [0,-5,3,0,0,0];
 
