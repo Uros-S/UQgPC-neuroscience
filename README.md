@@ -15,7 +15,7 @@ https://www.tu-chemnitz.de/etit/control/research/PoCET/index.php.en
 - In 'main.m' select the model (1 --> Hindmarsh-Rose, 2 --> Jansen-Rit, 3 --> Epileptor) and whether to recompute everything from scratch (recompute = 1) or to use the pre-computed data generated for the paper's figures 
   (recompute = 0). Note that the numerical values will slightly differ from those of the paper since sampling is involved in some parts of the algorithm.
 
-  # License
+# License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
